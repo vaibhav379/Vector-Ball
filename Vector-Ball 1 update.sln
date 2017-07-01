@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{40F5C925-B879-EEDA-D4C5-58C78249787A}") = "Vector-Ball 1 update", "Assembly-CSharp.csproj", "{86EAC146-D228-3312-E042-F4066583162F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EAC146-D228-3312-E042-F4066583162F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EAC146-D228-3312-E042-F4066583162F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EAC146-D228-3312-E042-F4066583162F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EAC146-D228-3312-E042-F4066583162F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
